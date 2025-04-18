@@ -1,5 +1,7 @@
 # Conway's Game of Life in C
 
+<video src="https://github.com/lporanta/aux/raw/refs/heads/main/cgol/cgol.mp4"></video>
+
 ## Compiling and installing
 
 ### Dependencies
