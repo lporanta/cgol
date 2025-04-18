@@ -1,6 +1,6 @@
 # Conway's Game of Life in C
 
-<video src="https://github.com/user-attachments/assets/9cbd9691-b241-43e6-8bd3-04a1ab837876" width=180/></video>
+<video src="https://github.com/user-attachments/assets/9cbd9691-b241-43e6-8bd3-04a1ab837876" width=50/></video>
 
 ## Compiling and installing
 
